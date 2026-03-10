@@ -10,8 +10,11 @@ Os arquivos incluem a tradução de:
 - Planos de fundo da tela inicial
 - Dicas
 
+## Requisitos
+- Manter o idioma do jogo em inglês
+- Usar a versão de PC.
 
-# Como fazer a instalação? 
+## Como fazer a instalação? 
 - Baixe os arquivos no botão verde logo acima e baixe o arquivo ZIP e descompacte-o.
 - Acesse o diretório do jogo e acesse o caminho <b>MuseDash_Data > StreamingAssets > aa</b> e você verá uma pasta chamada StandaloneWindows64
 - É extremamente recomendável fazer um backup completo da pasta StandaloneWindows64 antes de aplicar a tradução e deixe em outra pasta que seja de fácil acesso caso de algum problema.
