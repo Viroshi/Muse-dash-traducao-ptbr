@@ -16,10 +16,10 @@ Os arquivos incluem a tradução de:
 
 ## Como fazer a instalação? 
 - Baixe os arquivos no botão verde logo acima e baixe o arquivo ZIP e descompacte-o.
-- Acesse o diretório do jogo e acesse o caminho <b>MuseDash_Data > StreamingAssets > aa</b> e você verá uma pasta chamada StandaloneWindows64
-- É extremamente recomendável fazer um backup completo da pasta StandaloneWindows64 antes de aplicar a tradução e deixe em outra pasta que seja de fácil acesso caso de algum problema.
-- Após ter feito o download da tradução e o backup de StandaloneWindows64, mova todos os arquivos da tradução(extensão .bundle) para dentro da pasta StandaloneWindows64.
-Com isso a tradução estará aplicada. Em caso de algum erro ou crash ao iniciar o jogo, além de qualquer bug/erro de tradução, abra um "Issues".
+- Acesse o diretório do jogo e acesse o caminho <code>MuseDash_Data > StreamingAssets > aa</code> e você verá uma pasta chamada <code>StandaloneWindows64</code>
+- É extremamente recomendável fazer um backup completo da pasta <code>StandaloneWindows64</code> antes de aplicar a tradução e deixe em outra pasta que seja de fácil acesso caso de algum problema.
+- Após ter feito o download da tradução e o backup de StandaloneWindows64, mova todos os arquivos da tradução(extensão .bundle) para dentro da pasta <code>StandaloneWindows64</code>.
+> ⚠️Nota: Com isso a tradução estará aplicada. Se você gostou, pode apoiar o trabalho deixando uma estrelinha ou relatando qualquer bug/erro de tradução abindo um "Issues".
 
 
 # Perguntas e respostas
