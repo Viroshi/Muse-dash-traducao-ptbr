@@ -1,7 +1,5 @@
 # Muse-Dash - Tradução em PT BR - Incompleto
-Arquivos de tradução do jogo Muse Dash
-
-Os arquivos incluem a tradução de:
+### Os arquivos incluem a tradução de:
 - Personagens
 - Elfins
 - Conquistas de fases
@@ -26,7 +24,7 @@ Os arquivos incluem a tradução de:
 - Com o seu Switch desbloqueado e numa custom firmware com LayeredFS, utilize o programa [DBI](https://github.com/rashevskyv/dbi) ou outro para alterar arquivos internos. Passe os arquivos baixados para o sd e coloque a pasta <code>romfs</code> neste caminho: <code>'sd:/atmosphere/contents/01008E200C5C2000/</code>
   ##### O resultado final deve ficar como: <code>sd:/atmosphere/contents/01008E200C5C2000/romfs/Data/StreamingAssets/aa/Switch/arquivos.bundle</code>
 - Caso queira retornar a versão original, inicie o Muse Dash mantendo pressionado o botão L ou exclua a pasta romfs do jogo.
-- Como coloco mods no meu Switch? [guia (em inglês)](https://switch.hacks.guide/extras/game\_modding.html) e [procurar em português](https://letmegooglethat.com/?q=como+instalar+mods+no+switch)
+- Como coloco mods no meu Switch? [guia (em inglês)](https://switch.hacks.guide/extras/game\_modding.html) e uma [em português](https://letmegooglethat.com/?q=como+instalar+mods+no+switch)
 > ⚠️Nota: testado apenas na versão 6.0.0 do jogo
 
 
@@ -38,7 +36,8 @@ Sim e não. Não sei muito inglês ainda e traduzi normalmente aquilo que eu sab
 Porque foi usado um executável feito por um espanhol para fazer a tradução dos arquivos e não incluia todas as partes do jogo. Ainda estou aprendendo a mexer com UABEA para conseguir de fato traduzir 100% do jogo.
 
 ### É necessário instalar algum mod ou plugin para aplicar a tradução?
-Não. Os arquivos de tradução tratam-se dos arquivos originais do jogo modificando apenas o texto. Mesmo sem a instalação de mods ou Melonloader ainda é possível aplicar a tradução normalmente.
+Na versão de PC não. Os arquivos de tradução tratam-se dos arquivos originais do jogo modificando apenas o texto. Mesmo sem a instalação de mods ou Melonloader ainda é possível aplicar a tradução normalmente.
+Confira "Como fazer a instalação? (Nintendo Switch)" para a versão de Nintendo
 
 ### É preciso ter comprado a DLC?
 Não. Apenas com o jogo base a tradução deverá funcionar corretamente, mas considere apoiar os desenvolvedores comprando o jogo completo em algum momento.
