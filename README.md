@@ -37,7 +37,7 @@ Porque foi usado um executável feito por um espanhol para fazer a tradução do
 
 ### É necessário instalar algum mod ou plugin para aplicar a tradução?
 Na versão de PC não. Os arquivos de tradução tratam-se dos arquivos originais do jogo modificando apenas o texto. Mesmo sem a instalação de mods ou Melonloader ainda é possível aplicar a tradução normalmente.
-Confira "Como fazer a instalação? (Nintendo Switch)" para a versão de Nintendo
+Confira "[Como fazer a instalação? (Nintendo Switch)](https://github.com/Viroshi/Muse-dash-traducao-ptbr?tab=readme-ov-file#como-fazer-a-instala%C3%A7%C3%A3o-nintendo-switch)" para a versão de Nintendo
 
 ### É preciso ter comprado a DLC?
 Não. Apenas com o jogo base a tradução deverá funcionar corretamente, mas considere apoiar os desenvolvedores comprando o jogo completo em algum momento.
