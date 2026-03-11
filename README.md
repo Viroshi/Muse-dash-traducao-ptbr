@@ -26,7 +26,7 @@ Os arquivos incluem a tradução de:
 - Com o seu Switch desbloqueado e numa custom firmware com LayeredFS, utilize o programa [DBI](https://github.com/rashevskyv/dbi) ou outro para alterar arquivos internos. Passe os arquivos baixados para o sd e coloque a pasta <code>romfs</code> neste caminho: <code>'sd:/atmosphere/contents/01008E200C5C2000/</code>
   ##### O resultado final deve ficar como: <code>sd:/atmosphere/contents/01008E200C5C2000/romfs/Data/StreamingAssets/aa/Switch/arquivos.bundle</code>
 - Caso queira retornar a versão original, inicie o Muse Dash mantendo pressionado o botão L ou exclua a pasta romfs do jogo.
-- Como coloco mods no meu Switch? [guia (em inglês)](https://switch.hacks.guide/extras/game\_modding.html) e uma [em português](https://letmegooglethat.com/?q=como+instalar+mods+no+switch)
+- Como coloco mods no meu Switch? [guia (em inglês)](https://switch.hacks.guide/extras/game\_modding.html) e [procurar em português](https://letmegooglethat.com/?q=como+instalar+mods+no+switch)
 > ⚠️Nota: testado apenas na versão 6.0.0 do jogo
 
 
