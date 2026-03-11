@@ -15,14 +15,14 @@ Os arquivos incluem a tradução de:
 - Usar a versão de PC ou de Nintendo Switch.
 
 ## Como fazer a instalação? (PC)
-- Baixe os arquivos no botão verde logo acima e baixe o arquivo ZIP e descompacte-o.
+- Baixe os arquivos no [release](https://github.com/Viroshi/Muse-dash-traducao-ptbr/releases/tag/pc1).
 - Acesse o diretório do jogo e acesse o caminho <code>MuseDash_Data > StreamingAssets > aa</code> e você verá uma pasta chamada <code>StandaloneWindows64</code>
 - É extremamente recomendável fazer um backup completo da pasta <code>StandaloneWindows64</code> antes de aplicar a tradução e deixe em outra pasta que seja de fácil acesso em caso de algum problema.
 - Após ter feito o download da tradução e o backup de <code>StandaloneWindows64</code>, mova todos os arquivos da tradução(extensão .bundle) para dentro da pasta que ficou no diretório do jogo.
 - Com isso a tradução estará aplicada. Se você gostou, pode apoiar o trabalho deixando uma estrelinha ou relatando qualquer bug/erro de tradução abindo um "Issues".
 
 ## Como fazer a instalação? (Nintendo Switch)
-- Baixe os arquivos no botão verde [logo acima](https://github.com/Viroshi/Muse-dash-traducao-ptbr) e baixe o arquivo ZIP e descompacte-o, apenas a pasta "Nintendo Switch" é a que interessa.
+- Baixe os arquivos no [release](https://github.com/Viroshi/Muse-dash-traducao-ptbr/releases/tag/1) e baixe o arquivo ZIP e descompacte-o.
 - Com o seu Switch desbloqueado e numa custom firmware com LayeredFS, utilize o programa [DBI](https://github.com/rashevskyv/dbi) ou outro para alterar arquivos internos. Passe os arquivos baixados para o sd e coloque a pasta <code>romfs</code> neste caminho: <code>'sd:/atmosphere/contents/01008E200C5C2000/</code>
   ##### O resultado final deve ficar como: <code>sd:/atmosphere/contents/01008E200C5C2000/romfs/Data/StreamingAssets/aa/Switch/arquivos.bundle</code>
 - Caso queira retornar a versão original, inicie o Muse Dash mantendo pressionado o botão L ou exclua a pasta romfs do jogo.
@@ -42,3 +42,8 @@ Não. Os arquivos de tradução tratam-se dos arquivos originais do jogo modific
 
 ### É preciso ter comprado a DLC?
 Não. Apenas com o jogo base a tradução deverá funcionar corretamente, mas considere apoiar os desenvolvedores comprando o jogo completo em algum momento.
+
+![20260311024950_1](https://github.com/user-attachments/assets/5010a110-751e-4c0f-b456-6f40c85bd0e9)
+![20260311025007_1](https://github.com/user-attachments/assets/c20d6bb3-179c-423d-bf1d-8ceba3232603)
+![20260311025017_1](https://github.com/user-attachments/assets/adf1e198-0cbf-413c-9213-0ba0840546d1)
+
